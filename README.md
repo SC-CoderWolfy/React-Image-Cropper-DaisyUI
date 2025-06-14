@@ -1,6 +1,6 @@
 <center><h1>React Image Cropper Tool </h1></center>
 
-This tool helps in cropping profile pictures before uploading. 
+This tool helps in cropping profile pictures before uploading.Built using Daisy UI and React-Easy-Crop. 
 
 ![Screenshot From 2025-06-14 08-17-33](https://github.com/user-attachments/assets/9c3a9a6d-84e7-4b17-89b4-80245d76d427)
 
